@@ -2,6 +2,12 @@
 
 a repo for testing out some functionality
 
-# Push/Pull
+# Ordered list
 
-We'll modify this file, commit it, and then pull it down to your local computer.
+Here are 3 things I like about GitHub:
+
+1. Markdown flavored text
+
+2. Code sharing
+
+3. Issues and Projects
