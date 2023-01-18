@@ -2,4 +2,6 @@
 
 a repo for testing out some functionality
 
-SOme more info
+# Push/Pull
+
+We'll modify this file, commit it, and then pull it down to your local computer.
