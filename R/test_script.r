@@ -6,6 +6,3 @@ denom <- 2
 
 ## fraction
 numer / denom
-
-## subtraction
-numer - denom
